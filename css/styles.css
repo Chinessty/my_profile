@@ -83,7 +83,7 @@ div a {
     text-align: center;
 }
 
-div.boxa a:hover {
+div a:hover {
     margin: 20px;
     background-color: orangered;
     padding: 5px 10px;
